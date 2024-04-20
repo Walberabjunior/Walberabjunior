@@ -1,5 +1,5 @@
 ### Hey guys! Welcome to my GitHub profile! / Bem-vindos ao meu perfil no GitHub!👋<br/>
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5581988349141&text=Olá%2C%20quero%20conhecer%20mais%20sobre%20você!)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5581988349141&text=Olá%2C%20Eu%20conheci%20seu%20perfil%20GitHub!)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walber-arruda-barbosa-junior-7a1565145/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/walberabjunior)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@juniorbarbosa2970)
@@ -7,7 +7,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@walberjr_)
 
 ![Walber GitHub stats](https://github-readme-stats.vercel.app/api?username=walberabjunior&show_icons=true&theme=dracula&count_private=true)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walberabjunior&theme=dracula&exclude_repo=github-readme-stats,walberabjunior.github.io)
 ## Linguagens que eu uso no meu dia:
 
 <div style="display: inline_block">
