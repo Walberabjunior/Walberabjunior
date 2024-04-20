@@ -7,7 +7,6 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@walberjr_)
 
 ![Walber GitHub stats](https://github-readme-stats.vercel.app/api?username=walberabjunior&show_icons=true&theme=dracula&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walberabjunior&theme=dracula&layout=compact)
 
 ## Linguagens que eu uso no meu dia:
 
