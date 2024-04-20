@@ -29,3 +29,8 @@
 </div><br/>
 
  Apaixonado por tecnologia, aprendizado e por mudar a vida das pessoas através da programação.
+
+  <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{walberabjunior}/count.svg" /></p> 
+<br></div>
