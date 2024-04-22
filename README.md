@@ -1,4 +1,8 @@
 ### Hey guys! Welcome to my GitHub profile! / Bem-vindos ao meu perfil no GitHub!👋<br/>
+
+![giphy](https://github.com/Walberabjunior/Walberabjunior/assets/158775634/e20d7a4f-b933-4073-b9b7-bda33e8bdeda)
+![giphy (1)](https://github.com/Walberabjunior/Walberabjunior/assets/158775634/5db55445-c716-491c-b0fa-258418bb9002)
+
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5581988349141&text=Olá%2C%20Eu%20conheci%20seu%20perfil%20GitHub!)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walber-junior-7a1565145/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/walberabjunior)
